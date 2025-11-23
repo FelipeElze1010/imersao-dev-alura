@@ -1,0 +1,183 @@
+[
+    {
+        "nome": "The Witcher 3: Wild Hunt",
+        "descricao": "Um RPG de mundo aberto aclamado pela crítica, onde você joga como Geralt de Rívia, um caçador de monstros.",
+        "ano": 2015,
+        "duracao": "Aprox. 100 horas",
+        "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+        "imagem": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f",
+        "imagem_carrossel": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f"
+    },
+    {
+        "nome": "Red Dead Redemption 2",
+        "descricao": "Uma épica história de fora da lei no final da era do Velho Oeste americano, com um vasto e detalhado mundo aberto.",
+        "ano": 2018,
+        "duracao": "Aprox. 80 horas",
+        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+        "imagem": "https://assets.vg247.com/current/2018/05/red_dead_redemption_2_cover_art_1.jpg",
+        "imagem_carrossel": "https://img.hype.games/cdn/facad932-4082-4d20-980d-34bb385d2233Red-Dead-Redemption-2-Ultimate-Edition-Cover-600.jpg"
+    },
+    {
+        "nome": "The Legend of Zelda: Breath of the Wild",
+        "descricao": "Explore o vasto reino de Hyrule em uma aventura de mundo aberto que quebra as convenções da série Zelda.",
+        "ano": 2017,
+        "duracao": "Aprox. 60 horas",
+        "link": "https://www.nintendo.com/pt-br/store/products/the-legend-of-zelda-breath-of-the-wild-switch/",
+        "imagem": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_thelegendofzeldabreathofthewild/NSwitch_TheLegendOfZeldaBreathOfTheWild_wp_mobile_01.jpg",
+        "imagem_carrossel": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldabreathofthewild_nintendoswitch2edition/2x1_NSwitch2_TLoZTBotWNSwitch2Edition_image1600w.jpg"
+    },
+    {
+        "nome": "God of War",
+        "descricao": "Kratos, agora vivendo como um homem no reino dos deuses e monstros nórdicos, deve lutar para sobreviver e ensinar seu filho a fazer o mesmo.",
+        "ano": 2018,
+        "duracao": "Aprox. 30 horas",
+        "link": "https://store.steampowered.com/app/1593500/God_of_War/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/82/God_of_War_2018_capa.png",
+        "imagem_carrossel": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/ax0V5TYMax06mLzmkWeQMiwH.jpg"
+    },
+    {
+        "nome": "Elden Ring",
+        "descricao": "Um RPG de ação de fantasia sombria desenvolvido pela FromSoftware, com um mundo vasto cheio de mistérios e perigos.",
+        "ano": 2022,
+        "duracao": "Aprox. 90 horas",
+        "link": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+        "imagem": "https://bdjogos.com.br/capas/4871-elden-ring-capa-1.webp",
+        "imagem_carrossel": "https://meialua.net/wp-content/uploads/2021/08/Elden_Ring_capa.jpg"
+    },
+    {
+        "nome": "Minecraft",
+        "descricao": "Um jogo sandbox que permite aos jogadores construir com uma variedade de blocos diferentes em um mundo 3D gerado proceduralmente.",
+        "ano": 2011,
+        "duracao": "Infinita",
+        "link": "https://www.minecraft.net/pt-br/store/minecraft-java-bedrock-edition-pc",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9c/Minecraft_capa.png"
+    },
+    {
+        "nome": "Stardew Valley",
+        "descricao": "Um RPG de simulação de fazenda onde você herda uma antiga fazenda e começa uma nova vida no campo.",
+        "ano": 2016,
+        "duracao": "Aprox. 50 horas",
+        "link": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+        "imagem": "https://thegamerstation.com/wp-content/uploads/2023/08/Oyun-Onerisi-Stardew-Valley.png?v=1704309957"
+    },
+    {
+        "nome": "Hollow Knight",
+        "descricao": "Explore um vasto reino em ruínas de insetos e heróis em um aclamado jogo de ação e aventura 2D.",
+        "ano": 2017,
+        "duracao": "Aprox. 40 horas",
+        "link": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+        "imagem": "https://www.mobygames.com/images/covers/l/486988-hollow-knight-nintendo-switch-front-cover.jpg"
+    },
+    {
+        "nome": "Cyberpunk 2077",
+        "descricao": "Um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais.",
+        "ano": 2020,
+        "duracao": "Aprox. 60 horas",
+        "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png"
+    },
+    {
+        "nome": "Grand Theft Auto V",
+        "descricao": "Três criminosos muito diferentes arriscam tudo em uma série de assaltos ousados que podem garantir o resto de suas vidas na cidade de Los Santos.",
+        "ano": 2013,
+        "duracao": "Aprox. 80 horas",
+        "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png"
+    },
+    {
+        "nome": "The Last of Us Part I",
+        "descricao": "Em uma civilização devastada, Joel, um sobrevivente, é contratado para contrabandear Ellie, uma garota de 14 anos, para fora de uma zona de quarentena opressiva.",
+        "ano": 2013,
+        "duracao": "Aprox. 15 horas",
+        "link": "https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/",
+        "imagem": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/last-of-us-box-art.jpg"
+    },
+    {
+        "nome": "Bloodborne",
+        "descricao": "Um caçador viaja para a cidade gótica e amaldiçoada de Yharnam, em busca de uma cura para sua aflição, apenas para encontrar uma praga endêmica que transformou a população em bestas.",
+        "ano": 2015,
+        "duracao": "Aprox. 45 horas",
+        "link": "https://store.playstation.com/pt-br/product/UP9000-CUSA00900_00-BLOODBORNE000000",
+        "imagem": "https://howlongtobeat.com/games/Bloodborne_Cover_Wallpaper.jpg?width=250"
+    },
+    {
+        "nome": "Baldur's Gate 3",
+        "descricao": "Reúna seu grupo e retorne aos Reinos Esquecidos em um conto de companheirismo e traição, sacrifício e sobrevivência, e a atração do poder absoluto.",
+        "ano": 2023,
+        "duracao": "Aprox. 100 horas",
+        "link": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+        "imagem": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/10/baldurs-gate-3-cover.jpg"
+    },
+    {
+        "nome": "Hades",
+        "descricao": "Desafie o deus dos mortos enquanto você batalha para sair do Submundo da mitologia grega neste 'roguelike' dos criadores de Bastion e Transistor.",
+        "ano": 2020,
+        "duracao": "Aprox. 25 horas",
+        "link": "https://store.steampowered.com/app/1145360/Hades/",
+        "imagem": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/Hades.jpg"
+    },
+    {
+        "nome": "Celeste",
+        "descricao": "Ajude Madeline a sobreviver a seus demônios internos em sua jornada até o topo da Montanha Celeste, neste jogo de plataforma super afiado e feito à mão.",
+        "ano": 2018,
+        "duracao": "Aprox. 10 horas",
+        "link": "https://store.steampowered.com/app/504230/Celeste/",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png"
+    },
+    {
+        "nome": "Disco Elysium",
+        "descricao": "Um RPG inovador de mundo aberto. Você é um detetive com um sistema de habilidades único à sua disposição e um quarteirão inteiro para desvendar. Interrogue personagens inesquecíveis, desvende assassinatos ou aceite subornos.",
+        "ano": 2019,
+        "duracao": "Aprox. 40 horas",
+        "link": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/",
+        "imagem": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/disco-elysium-final-cut.jpg"
+    },
+    {
+        "nome": "Ghost of Tsushima",
+        "descricao": "No final do século XIII, o império mongol devastou nações inteiras em sua campanha para conquistar o Oriente. A Ilha de Tsushima é tudo o que resta entre o Japão e a invasão mongol.",
+        "ano": 2020,
+        "duracao": "Aprox. 50 horas",
+        "link": "https://store.playstation.com/pt-br/product/UP9000-PPSA01220_00-GHOSTDIRECTORCUT",
+        "imagem": "https://bdjogos.com.br/capas/5988-Ghost-of-Tsushima-Playstation-4-capa-1.jpg"
+    },
+    {
+        "nome": "Horizon Zero Dawn",
+        "descricao": "Em um mundo exuberante e pós-apocalíptico, onde a natureza retomou as ruínas de uma civilização esquecida, criaturas mecanizadas colossais dominam a paisagem. Você joga como Aloy, uma jovem caçadora.",
+        "ano": 2017,
+        "duracao": "Aprox. 60 horas",
+        "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/",
+        "imagem": "https://www.gamesreviews.com/wp-content/uploads/2021/05/Horizon_Forbidden_West.jpg"
+    },
+    {
+        "nome": "Portal 2",
+        "descricao": "Um jogo de quebra-cabeça em primeira pessoa. Usando um dispositivo experimental, você resolve quebra-cabeças abrindo portais e se movendo através do espaço.",
+        "ano": 2011,
+        "duracao": "Aprox. 10 horas",
+        "link": "https://store.steampowered.com/app/620/Portal_2/",
+        "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000050313/75484f73fedd25cb830c5d93fbb3fca643a5ec0b09df2815291ead880bc7d6b1"
+    },
+    {
+        "nome": "Uncharted 4: A Thief's End",
+        "descricao": "Vários anos após sua última aventura, o caçador de tesouros aposentado, Nathan Drake, é forçado a voltar ao mundo dos ladrões quando seu irmão, Sam, ressurge.",
+        "ano": 2016,
+        "duracao": "Aprox. 15 horas",
+        "link": "https://store.playstation.com/pt-br/product/UP9000-CUSA00341_00-UNCHARTED4000000",
+        "imagem": "https://tse3.mm.bing.net/th/id/OIP.rGj2-pq6a1KJ3g7n7dNq2QHaHa?pid=Api&P=0&h=180"
+    },
+    {
+        "nome": "Sekiro: Shadows Die Twice",
+        "descricao": "Explore o Japão do período Sengoku do final do século XVI, um período brutal e sangrento, enquanto você fica frente a frente com inimigos gigantescos em um mundo sombrio e distorcido.",
+        "ano": 2019,
+        "duracao": "Aprox. 30 horas",
+        "link": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/",
+        "imagem": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-07-dec-2024-07-46-am-1352.jpg"
+    },
+    {
+        "nome": "Resident Evil 4",
+        "descricao": "Seis anos se passaram desde o desastre biológico em Raccoon City. O agente Leon S. Kennedy é enviado para resgatar a filha do presidente dos EUA de uma vila europeia isolada.",
+        "ano": 2023,
+        "duracao": "Aprox. 16 horas",
+        "link": "https://store.steampowered.com/app/2050650/Resident_Evil_4/",
+        "imagem": "https://tse4.mm.bing.net/th/id/OIP.c3moWY6HlmMpsJ_5IbO_mQHaKy?pid=Api&P=0&h=180"
+    }
+]

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria de Jogos</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body style="padding-top: 90px;"> 
+ 
+    <header>
+        <div class="logo-container">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="game-icon"><path d="M2 17V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2Z"/><path d="M6 11v4"/><path d="M10 11v4"/><path d="M14 11v4"/><path d="M18 11v4"/></svg>
+            <span class="logo-text">GameHub</span>
+        </div>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Buscar jogo por nome...">
+            <div id="search-results"></div>
+        </div>
+        <a href="suas-criacoes.html" id="creations-btn" class="card-link">
+            Suas Criações
+        </a>
+    </header>
+    <section class="carousel-section">
+        <p class="carousel-title">DESTAQUE E RECOMENDADOS</p>
+        <div id="carousel-container" class="carousel-container">
+        </div>
+    </section>
+    <div class="catalog-header">
+        <h2 class="catalog-title">JOGOS POPULARES</h2>
+
+    </div>
+    <main id="cards-container" class="container"></main>
+    <script src="script.js"></script>
+    <footer>
+        <div class="footer-content">
+            <p>Desenvolvido durante a Imersão da Alura</p>
+            <div class="footer-links">
+                <a href="https://www.alura.com.br/" target="_blank" class="footer-link">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="aluraTitle"><title id="aluraTitle">Logo da Alura</title><path d="M12 0L0 4.8V19.2L12 24L24 19.2V4.8L12 0ZM5.4 7.2L12 10.08L18.6 7.2L12 4.32L5.4 7.2ZM2.4 17.28V7.68L12 12V21.6L2.4 17.28Z"/></svg>
+                    <span>Alura</span>
+                </a>
+                <a href="https://github.com/" target="_blank" class="footer-link">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="githubTitle"><title id="githubTitle">Logo do GitHub</title><path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.502 9.022 23.127 9.022 22.799C9.022 22.504 9.012 21.643 9.007 20.55C5.463 21.316 4.787 18.932 4.787 18.932C4.245 17.633 3.49 17.258 3.49 17.258C2.4 16.544 3.575 16.559 3.575 16.559C4.763 16.643 5.34 17.77 5.34 17.77C6.41 19.604 8.283 19.049 9.022 18.743C9.132 17.95 9.453 17.413 9.79 17.118C7.143 16.812 4.382 15.76 4.382 11.2C4.382 9.928 4.837 8.884 5.57 8.084C5.445 7.778 5.063 6.687 5.688 5.034C5.688 5.034 6.688 4.719 9.022 6.249C9.972 5.999 10.992 5.874 12.022 5.874C13.052 5.874 14.072 5.999 15.022 6.249C17.356 4.719 18.356 5.034 18.356 5.034C18.981 6.687 18.599 7.778 18.474 8.084C19.212 8.884 19.663 9.928 19.663 11.2C19.663 15.775 16.898 16.807 14.244 17.113C14.649 17.468 15.017 18.162 15.017 19.149C15.017 20.633 15.002 21.843 15.002 22.204C15.002 22.539 15.217 22.914 15.822 22.799C20.567 21.795 24 17.3 24 12C24 5.373 18.627 0 12 0Z"/></svg>
+                    <span>GitHub</span>
+                </a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
